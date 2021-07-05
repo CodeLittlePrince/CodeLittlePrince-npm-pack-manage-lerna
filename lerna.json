@@ -9,9 +9,7 @@
     },
     "version": {
       "conventionalCommits": true,
-      "npmClientArgs": [
-        "--create-release=github"
-      ]
+      "createRelease": "github"
     }
   },
   "ignoreChanges": [
