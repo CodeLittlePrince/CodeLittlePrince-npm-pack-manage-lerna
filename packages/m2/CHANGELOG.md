@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.2](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/@lerna-test/m2@0.3.1...@lerna-test/m2@0.3.2) (2021-07-05)
+
+
+### Bug Fixes
+
+* m2 change ([f2bb566](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/f2bb566749cfddfa35b13be111be02904645578c))
+
+
+
+
+
 ## [0.3.1](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/@lerna-test/m2@0.3.0...@lerna-test/m2@0.3.1) (2021-07-05)
 
 **Note:** Version bump only for package @lerna-test/m2
