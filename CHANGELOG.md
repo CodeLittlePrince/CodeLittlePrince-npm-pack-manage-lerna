@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.5.0...v0.6.0) (2021-07-05)
+
+
+### Features
+
+* ai ([b9be113](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/b9be113e053f90442413d7f5368f8228ea166392))
+
+
+
+
+
 # [0.5.0](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.2.1...v0.5.0) (2021-07-05)
 
 
