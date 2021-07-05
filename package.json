@@ -2,9 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "lint": "eslint packages/**/*.js",
-    "v": "lerna version --create-release github",
-    "p": "lerna publish"
+    "lint": "eslint packages/**/*.js"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",

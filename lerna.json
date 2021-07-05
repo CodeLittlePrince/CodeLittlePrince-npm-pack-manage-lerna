@@ -8,7 +8,9 @@
       "hoist": true
     },
     "version": {
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "npmClientArgs": ["--create-release=github"]
     }
-  }
+  },
+  "ignoreChanges": ["**/__tests__/**", "**/*.md"]
 }
