@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.2.1...v0.5.0) (2021-07-05)
+
+
+### Bug Fixes
+
+* m1 ([75f03a4](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/75f03a4bc18ca5bc85c0a689900c16fc8f9ea78d))
+* **m1:** m1 ([f7dfc53](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/f7dfc538b4e059cdca10edc7208cca112e4632ac))
+* m2 change ([f2bb566](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/f2bb566749cfddfa35b13be111be02904645578c))
+* m2 fix ([2ed3b9a](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/2ed3b9ab48c1cb527833515db86f5a71dfc3cb8c)), closes [#123](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/issues/123)
+
+
+### Features
+
+* change npm name ([c2fc88d](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/c2fc88d5ca171d492b37c80b75554498cc2a1bf8))
+* m1!!! ([947383f](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/947383f1b1f23c8af5e37670272f2808a2d243ac))
+* **m1:** m1 update ([f62166b](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/f62166b1f34f0cf89e13fd1a09e29020903bfaaa)), closes [#1](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/issues/1)
+
+
+
+
+
 ## [0.2.1](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.2.0...v0.2.1) (2021-07-05)
 
 
