@@ -2,15 +2,20 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.6.1",
+  "version": "0.7.0",
   "command": {
     "bootstrap": {
       "hoist": true
     },
     "version": {
       "conventionalCommits": true,
-      "npmClientArgs": ["--create-release=github"]
+      "npmClientArgs": [
+        "--create-release=github"
+      ]
     }
   },
-  "ignoreChanges": ["**/__tests__/**", "**/*.md"]
+  "ignoreChanges": [
+    "**/__tests__/**",
+    "**/*.md"
+  ]
 }
