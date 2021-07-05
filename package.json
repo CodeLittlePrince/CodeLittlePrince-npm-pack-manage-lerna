@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "lint": "eslint packages/**/*.js"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.30.0",
+    "husky": "^7.0.0",
+    "lerna": "^4.0.0",
+    "lerna-changelog": "^1.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
