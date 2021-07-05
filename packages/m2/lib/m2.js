@@ -4,5 +4,5 @@ module.exports = m2;
 
 function m2() {
     m1()
-    console.log('hello m2');
+    console.log('hello m2!!!');
 }
