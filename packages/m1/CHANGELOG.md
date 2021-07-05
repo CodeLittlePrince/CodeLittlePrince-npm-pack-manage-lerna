@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.9.0](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.8.1...v0.9.0) (2021-07-05)
+
+**Note:** Version bump only for package @lerna-test-zx/m1
+
+
+
+
+
 # [0.8.0](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.7.0...v0.8.0) (2021-07-05)
 
 **Note:** Version bump only for package @lerna-test-zx/m1
