@@ -1,4 +1,4 @@
-const m1 = require('@lerna-test/m1');
+const m1 = require('@lerna-test-zx/m1');
 
 module.exports = m2;
 
