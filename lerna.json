@@ -2,14 +2,13 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
+  "version": "0.2.2",
   "command": {
     "bootstrap": {
       "hoist": true
     },
     "version": {
-      "conventionalCommits": true,
-      "message": "chore(release): publish"
+      "conventionalCommits": true
     }
   }
 }
