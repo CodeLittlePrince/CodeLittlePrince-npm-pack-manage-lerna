@@ -10,6 +10,9 @@
     "version": {
       "conventionalCommits": true,
       "createRelease": "github"
+    },
+    "publish": {
+      "registry": "https://npm.pkg.github.com"
     }
   },
   "ignoreChanges": [
