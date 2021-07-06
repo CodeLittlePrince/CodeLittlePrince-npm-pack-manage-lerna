@@ -33,6 +33,12 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: '14.x'
+
+      # Configure git user used to push tag
+      - name: Configure Git User
+        run: |
+          git config --global user.email "1006312908@qq.com"
+          git config --global user.name "ci@$GITHUB_ACTOR"
       
       - name: Lerna bootstrap
         run: |
