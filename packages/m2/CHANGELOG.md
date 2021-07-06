@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.9.1...v0.10.0) (2021-07-06)
+
+
+### Bug Fixes
+
+* fix m2 ([c2cc019](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/c2cc0193354a6d9c87c3d19bdc63cfd82f684451))
+
+
+### Features
+
+* add demo ([50a4c38](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/commit/50a4c38734af633e16942353bba60d6d12cc6899))
+
+
+### BREAKING CHANGES
+
+* rewrite m1&m2 for addding demo
+
+
+
+
+
 ## [0.9.1](https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/compare/v0.9.0...v0.9.1) (2021-07-06)
 
 
