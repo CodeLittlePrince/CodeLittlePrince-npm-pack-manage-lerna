@@ -1,8 +1,7 @@
-const m1 = require('@lerna-test-zx/m1');
+const m1 = require('@lerna-test-zx/m1')
 
-module.exports = m2;
-
-function m2() {
-    m1()
-    console.log('hello m2!');
+module.exports = {
+    increase(n) {
+        return m1.add(n, 1)
+    }
 }

@@ -1,0 +1,33 @@
+{
+  "name": "@lerna-test-zx/demo",
+  "version": "0.9.1",
+  "private": true,
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "倪俊杰 <nijunjie@corp.netease.com>",
+  "license": "ISC",
+  "main": "lib/demo.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna/issues"
+  },
+  "homepage": "https://github.com/CodeLittlePrince/CodeLittlePrince-npm-pack-manage-lerna#readme",
+  "dependencies": {
+    "@lerna-test-zx/m2": "^0.9.1"
+  }
+}
