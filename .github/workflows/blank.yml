@@ -58,7 +58,6 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           npm whoami
-          npx lerna publish from-package --yes
 
       - name: End
         run: |
