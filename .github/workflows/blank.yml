@@ -33,6 +33,8 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: '14.x'
+          registry-url: https://registry.npmjs.org/
+          scope: lerna-test-zx
 
       # Configure git user used to push tag
       - name: Configure Git User
