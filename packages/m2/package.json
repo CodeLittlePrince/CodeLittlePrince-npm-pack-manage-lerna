@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test-zx/m2",
-  "version": "0.10.12",
+  "version": "0.10.13",
   "description": "> TODO: description",
   "author": "倪俊杰 <nijunjie@corp.netease.com>",
   "homepage": "",
@@ -19,6 +19,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@lerna-test-zx/m1": "^0.10.12"
+    "@lerna-test-zx/m1": "^0.10.13"
   }
 }
