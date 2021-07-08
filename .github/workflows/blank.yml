@@ -57,11 +57,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npx lerna version --yes
-      
-      - name: Release
+
+      - name: Create .npmrc
+        run: echo //registry.npmjs.org/:_authToken=${NPM_TOKEN} > .npmrc
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx lerna publish from-package --yes
+      
+      - name: Release
+        run: |
+          npx lerna publish from-package --yes
 
       - name: End
         run: |
