@@ -48,9 +48,9 @@ jobs:
         run: |
           echo End.
 
-  test-on-window:
+  test-on-macos:
     # The type of runner that the job will run on
-    runs-on: windows-latest
+    runs-on: macos-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -83,6 +83,7 @@ jobs:
           echo End.
 
   publish:
+    needs: [test-on-ubuntu, test-on-macos]
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
